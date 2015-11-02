@@ -24,6 +24,13 @@
  * *GET* /v1/templates/:id/edit
  * *PUT*  /v1/templates/:id
  * *DELETE*  /v1/templates/:id
+ * *GET* /v1/users
+ * *GET* /v1/users/:id
+ * *POST* /v1/users
+ * *GET*  /v1/users/
+ * *GET* /v1/users/:id/edit
+ * *PUT*  /v1/users/:id
+ * *DELETE*  /v1/users/:id
 
 
  
