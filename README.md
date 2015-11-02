@@ -17,13 +17,13 @@
  
 > endpoints
  * *GET* /v1/status
- * *GET* /v1/templates
- * *GET* /v1/templates/:id
- * *POST* /v1/templates
- * *GET*  /v1/templates/
- * *GET* /v1/templates/:id/edit
- * *PUT*  /v1/templates/:id
- * *DELETE*  /v1/templates/:id
+ * *GET* /v1/users/:id/templates
+ * *GET* /v1/users/:id/templates/:id
+ * *POST* /v1/users/:id/templates
+ * *GET*  /v1/users/:id/templates/
+ * *GET* /v1/users/:id/templates/:id/edit
+ * *PUT*  /v1/users/:id/templates/:id
+ * *DELETE*  /v1/users/:id/templates/:id
  * *GET* /v1/users
  * *GET* /v1/users/:id
  * *POST* /v1/users
@@ -31,7 +31,9 @@
  * *GET* /v1/users/:id/edit
  * *PUT*  /v1/users/:id
  * *DELETE*  /v1/users/:id
-
+ * *GET* /v1/users/:id/place_holder
+ * *GET* /v1/users/:id/templates/:id/place_holder
+etc :)
 
  
 
