@@ -33,7 +33,26 @@
  * *DELETE*  /v1/users/:id
  * *GET* /v1/users/:id/place_holder
  * *GET* /v1/users/:id/templates/:id/place_holder
+ 
 etc :)
+
+> tools
+
+for api:
+
+- ruby
+- sinatra
+- sequel
+- sinatra contrib
+- pagination
+
+for web app
+ - ruby
+ - rails
+ - fast json
+ - devise
+ - semantic-ui
+ - trix-web
 
  
 
