@@ -1,1 +1,6 @@
-# isjustamazing
+
+###### API
+
+###### Rails App
+
+###### ruby library
